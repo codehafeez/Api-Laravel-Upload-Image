@@ -25,7 +25,9 @@ CMD => http://127.0.0.1:8000/api/image
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD-with-Auth/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-Upload-Image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-Upload-Image/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-Upload-Image/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
